@@ -1,2 +1,16 @@
 python-dotenv
 requests
+
+transformers
+datasets
+accelerate
+peft
+bitsandbytes
+sentence-transformers
+faiss-cpu
+fastapi
+uvicorn
+gradio
+
+pillow
+opencv-python
